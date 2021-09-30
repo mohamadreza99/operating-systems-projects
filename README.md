@@ -8,6 +8,6 @@ This projects is an illustration of how threads, locks, and semaphores work. In 
 I implemented this project using java thread synchoronization and thread locks which they serve as four areas in the intersection that I mentioned above.
 
 ## 2. Paging and Memory Management
-In this project, paging system of os is implemented. we have a backstore.bin file that it is as the physical memory. We have a virtual memory for processes running in the os and each virtual address should be translated to the related physical address using page table and TLB. For more details look at this [readme]() file located in the directory of this project.
+In this project, paging system of os is implemented. we have a backstore.bin file that it is as the physical memory. We have a virtual memory for processes running in the os and each virtual address should be translated to the related physical address using page table and TLB. For more details look at this [readme](https://github.com/mohamadreza99/operating-systems-projects/blob/main/2.OSPaging/README.md) file located in the directory of this project.
 
 
