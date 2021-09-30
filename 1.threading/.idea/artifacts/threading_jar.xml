@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="threading:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/threading_jar</output-path>
-    <root id="archive" name="threading.jar">
-      <element id="module-output" name="threading" />
-    </root>
-  </artifact>
-</component>
