@@ -10,4 +10,5 @@ I implemented this project using java thread synchoronization and thread locks w
 ## 2. Paging and Memory Management
 In this project, paging system of os is implemented. we have a backstore.bin file that it is as the physical memory. We have a virtual memory for processes running in the os and each virtual address should be translated to the related physical address using page table and TLB. For more details look at this [readme](https://github.com/mohamadreza99/operating-systems-projects/blob/main/2.OSPaging/README.md) file located in the directory of this project.
 
-
+## 3. File System Scheduling
+This program implements the following disk-scheduling algorithms: `FCFS`, `SSTF`, `SCAN`, `C-SCAN`, `Look` and `C-Look`, and also will service a disk with 5000 cylinders numbered 0 to 4999. The program will generate a random series of 1000 cylinder requests and service them according to each of the algorithms listed above. The program will be passed the initial position of the disk head (as a parameter on the command line) and report the total amount of head movement required by each algorithm.
